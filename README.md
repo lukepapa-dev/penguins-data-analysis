@@ -1,4 +1,6 @@
-![Logo](logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="100">
+</p>
 # Penguin Data Analysis
 
 Exploratory data analysis of the famous Palmer Penguins dataset from Kaggle.
