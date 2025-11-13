@@ -1,7 +1,8 @@
 <p align="left">
   <img src="logo.png" width="100">
 </p>
-# Penguin Data Analysis
+
+## Penguin Data Analysis
 
 Exploratory data analysis of the famous Palmer Penguins dataset from Kaggle.
 
