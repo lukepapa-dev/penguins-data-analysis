@@ -1,3 +1,4 @@
+![Logo](logo.png)
 # Penguin Data Analysis
 
 Exploratory data analysis of the famous Palmer Penguins dataset from Kaggle.
