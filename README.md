@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="logo.png" width="100">
 </p>
 # Penguin Data Analysis
